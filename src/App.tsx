@@ -7,7 +7,6 @@ import Game from './Levels/Game'
 
 class App extends React.Component<{}, Levels> {
 
-
   constructor(props: {}) {
     super(props)
     this.state = defaultGame
